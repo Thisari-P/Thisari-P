@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Final-year Data Science Communication undergraduate at KDU with hands on experience in NLP, Power
+I am Thisari Perera.Final-year Data Science Communication undergraduate at KDU with hands on experience in NLP, Power
 BI dashboards, and machine learning across 10+ real-world projects. Award winner at Data Odyssey
 2025. Seeking a data analytics or business intelligence internship.
 
